@@ -1,11 +1,11 @@
 # ui_explore
 
-For the sake of learning VueJs.
-Application to keep track of manga, manhua, manhwa scan releases.
+For the sake of learning vue and ui design.
+The main idea is to build an application to keep track of scan releases.
 
 ## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+IDE? what's that? ... I use NVIM with COC (coc-volar)
 
 ## Type Support for `.vue` Imports in TS
 
